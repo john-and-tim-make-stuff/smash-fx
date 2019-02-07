@@ -1,0 +1,3 @@
+[submodule "smash-fx/Assets/3rd Party/ShaderForge"]
+	path = smash-fx/Assets/3rd Party/ShaderForge
+	url = https://github.com/john-and-tim-make-stuff/ShaderForge.git
