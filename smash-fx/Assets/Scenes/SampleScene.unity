@@ -179,45 +179,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!28 &172525772
-Texture2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: 
-  m_ImageContentsHash:
-    serializedVersion: 2
-    Hash: 00000000000000000000000000000000
-  m_ForcedFallbackFormat: 4
-  m_DownscaleFallback: 0
-  serializedVersion: 2
-  m_Width: 32
-  m_Height: 1
-  m_CompleteImageSize: 252
-  m_TextureFormat: 4
-  m_MipCount: 6
-  m_IsReadable: 1
-  m_StreamingMipmaps: 0
-  m_StreamingMipmapsPriority: 0
-  m_AlphaIsTransparency: 0
-  m_ImageCount: 1
-  m_TextureDimension: 2
-  m_TextureSettings:
-    serializedVersion: 2
-    m_FilterMode: 1
-    m_Aniso: 1
-    m_MipBias: 0
-    m_WrapU: 1
-    m_WrapV: 1
-    m_WrapW: 1
-  m_LightmapFormat: 0
-  m_ColorSpace: 1
-  image data: 252
-  _typelessdata: 79feffff77fbfcff75f8faff73f4f7ff71f1f5ff6feef2ff6debf0ff6be8edff69e5ebff67e1e8ff65dee5ff63dbe3ff61d8e0ff5fd5deff5dd1dbff5bced9ff59cbd6ff56c8d3ff54c5d1ff52c1ceff50beccff4ebbc9ff4cb8c7ff4ab5c4ff48b2c2ff46aebfff44abbcff42a8baff40a5b7ff3ea2b5ff3c9eb2ff3a9bb0ff78fcfdff74f6f8ff70eff3ff6ce9eeff68e3e9ff64dce4ff60d6dfff5ccfdaff57c9d4ff53c3cfff4fbccaff4bb6c5ff47b0c0ff43a9bbff3fa3b6ff3b9cb1ff76f9faff6eecf0ff66dfe6ff5ed2dcff55c6d1ff4db9c7ff45acbdff3d9fb3ff72f2f5ff62d8e1ff51bfccff41a5b8ff6ae5ebff49b2c2ff59cbd6ff
-  m_StreamData:
-    offset: 0
-    size: 0
-    path: 
 --- !u!1001 &361374663
 Prefab:
   m_ObjectHideFlags: 0
@@ -367,10 +328,10 @@ ParticleSystemRenderer:
   m_NormalDirection: 1
   m_RenderAlignment: 2
   m_Pivot: {x: 0, y: 0, z: 0}
-  m_UseCustomVertexStreams: 0
+  m_UseCustomVertexStreams: 1
   m_EnableGPUInstancing: 1
   m_ApplyActiveColorSpace: 1
-  m_VertexStreams: 00010304
+  m_VertexStreams: 0001030415
   m_Mesh: {fileID: 4300000, guid: 47155bc1c4cc9704cbbe7c280f402158, type: 3}
   m_Mesh1: {fileID: 0}
   m_Mesh2: {fileID: 0}
@@ -455,7 +416,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.12
+      scalar: 0.15
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -5101,6 +5062,45 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!28 &727496437
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  serializedVersion: 2
+  m_Width: 32
+  m_Height: 1
+  m_CompleteImageSize: 252
+  m_TextureFormat: 4
+  m_MipCount: 6
+  m_IsReadable: 1
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  image data: 252
+  _typelessdata: 0f4f5eff0f4f5eff0f4f5eff0f4f5eff0f4f5eff0f4f5eff0f4f5eff0f4f5eff0f4f5eff0f4f5eff105261ff125e71ff146a80ff177790ff19839fff1c90afff1e9cbeff21a9ceff23b5ddff26c1edff28ccfaff28ccfaff28ccfaff28ccfaff28ccfaff28ccfaff28ccfaff28ccfaff28ccfaff28ccfaff28ccfaff28ccfaff0f4f5eff0f4f5eff0f4f5eff0f4f5eff0f4f5eff115869ff157088ff1a89a7ff1fa2c6ff24bbe5ff28ccfaff28ccfaff28ccfaff28ccfaff28ccfaff28ccfaff0f4f5eff0f4f5eff105363ff177c97ff21aed5ff28ccfaff28ccfaff28ccfaff0f4f5eff13677dff24bde7ff28ccfaff115b6dff26c4f0ff1b8faeff
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
 --- !u!1 &1649325805
 GameObject:
   m_ObjectHideFlags: 0
@@ -5220,16 +5220,16 @@ MonoBehaviour:
   gradientMapDimensions: {x: 32, y: 1}
   gradient:
     serializedVersion: 2
-    key0: {r: 0.4745098, g: 0.99607843, b: 1, a: 1}
-    key1: {r: 0.21960784, g: 0.59607846, b: 0.6784314, a: 1}
+    key0: {r: 0.05882353, g: 0.30980393, b: 0.36862746, a: 1}
+    key1: {r: 0.15686275, g: 0.8, b: 0.98039216, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
     key5: {r: 0, g: 0, b: 0, a: 0}
     key6: {r: 0, g: 0, b: 0, a: 0}
     key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
+    ctime0: 20046
+    ctime1: 40670
     ctime2: 0
     ctime3: 0
     ctime4: 0
@@ -5248,7 +5248,7 @@ MonoBehaviour:
     m_NumColorKeys: 2
     m_NumAlphaKeys: 2
   testing: 0
-  texture: {fileID: 172525772}
+  texture: {fileID: 727496437}
 --- !u!212 &1704455486
 SpriteRenderer:
   m_ObjectHideFlags: 0
