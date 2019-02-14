@@ -4,11 +4,31 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: mod_circle
+    100004: mod_impact
+    100006: mod_impact_flipped_normals
+    100008: mod_star
     400000: //RootNode
+    400002: mod_circle
+    400004: mod_impact
+    400006: mod_impact_flipped_normals
+    400008: mod_star
     2100000: phong3
     2300000: //RootNode
+    2300002: mod_circle
+    2300004: mod_impact
+    2300006: mod_impact_flipped_normals
+    2300008: mod_star
     3300000: //RootNode
+    3300002: mod_circle
+    3300004: mod_impact
+    3300006: mod_impact_flipped_normals
+    3300008: mod_star
     4300000: m_impact
+    4300002: mod_star
+    4300004: mod_circle
+    4300006: mod_impact
+    4300008: mod_impact_flipped_normals
   externalObjects: {}
   materials:
     importMaterials: 0

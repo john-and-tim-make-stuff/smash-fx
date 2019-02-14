@@ -1,20 +1,30 @@
 fileFormatVersion: 2
-guid: 47155bc1c4cc9704cbbe7c280f402158
+guid: 5037b2ab77600914d82e1fc4e19f817e
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: m_impact
-    100004: pCylinder1
-    100006: transform1
+    100002: mod_circle
+    100004: mod_impact
+    100006: mod_star
     400000: //RootNode
-    400002: m_impact
-    400004: pCylinder1
-    400006: transform1
+    400002: mod_circle
+    400004: mod_impact
+    400006: mod_star
     2100000: phong1
-    2300000: m_impact
-    3300000: m_impact
-    4300000: m_impact
+    2100002: phong3
+    2300000: //RootNode
+    2300002: mod_circle
+    2300004: mod_impact
+    2300006: mod_star
+    3300000: //RootNode
+    3300002: mod_circle
+    3300004: mod_impact
+    3300006: mod_star
+    4300000: star
+    4300002: mod_impact
+    4300004: mod_star
+    4300006: mod_circle
   externalObjects: {}
   materials:
     importMaterials: 0
@@ -51,8 +61,8 @@ ModelImporter:
     addColliders: 0
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 0
-    importLights: 0
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -73,7 +83,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
