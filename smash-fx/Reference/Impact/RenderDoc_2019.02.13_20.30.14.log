@@ -1,0 +1,25 @@
+RDOC 014472: [20:30:14]             core.cpp( 310) - Log     - RenderDoc v1.2 64-bit Release (204724bebe2484ee2d14a572d9f1074dd3f933a9) loaded in replay application
+RDOC 014472: [20:30:14]      crash_handler.h( 112) - Log     - Creating crash-handling server
+QTRD 014472: [20:30:15]       qrenderdoc.cpp(  88) - Log     - QRenderDoc initialising.
+QTRD 014472: [20:30:43]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange () 0
+QTRD 014472: [20:30:44]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange () 0
+QTRD 014472: [20:30:57]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange (QUrl("file:///C:/Users/John McElmurray/AppData/Local/Temp/RenderDoc/Cemu_2019.02.07_04.04.30_frame19697.rdc")) 1
+QTRD 014472: [20:30:59]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange (QUrl("file:///C:/Users/John McElmurray/AppData/Local/Temp/RenderDoc/Cemu_2019.02.07_04.04.30_frame19695.rdc")) 1
+QTRD 014472: [20:31:57]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange () 0
+QTRD 014472: [20:32:05]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange () 0
+QTRD 014472: [20:32:09]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange (QUrl("file:///C:/Users/John McElmurray/Documents/GitHub/smash-fx")) 1
+QTRD 014472: [20:32:09]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange () 0
+QTRD 014472: [20:32:10]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange (QUrl("file:///C:/Users/John McElmurray/Documents/GitHub/smash-fx/smash-fx")) 1
+QTRD 014472: [20:32:10]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange () 0
+QTRD 014472: [20:32:51]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange (QUrl("file:///C:/Users/John McElmurray/Documents/GitHub/smash-fx/smash-fx")) 1
+QTRD 014472: [20:32:52]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange (QUrl("file:///C:/Users/John McElmurray/Documents/GitHub/smash-fx/Exports")) 1
+QTRD 014472: [20:32:54]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange (QUrl("file:///C:/Users/John McElmurray/Documents/GitHub/smash-fx/Exports")) 1
+QTRD 014472: [20:32:55]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange (QUrl("file:///C:/Users/John McElmurray/Documents/GitHub/smash-fx/smash-fx")) 1
+QTRD 014472: [20:32:56]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange () 0
+QTRD 014472: [20:32:59]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange (QUrl("file:///C:/Users/John McElmurray/Documents/GitHub/smash-fx/smash-fx/Reference")) 1
+QTRD 014472: [20:32:59]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange () 0
+QTRD 014472: [20:33:00]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange (QUrl("file:///C:/Users/John McElmurray/Documents/GitHub/smash-fx/smash-fx/Reference/Impact")) 1
+QTRD 014472: [20:33:00]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange () 0
+QTRD 014472: [20:33:16]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange () 0
+QTRD 014472: [20:33:22]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange (QUrl("file:///C:/Users/John McElmurray/AppData/Local/Temp/RenderDoc/Cemu_2019.02.07_04.04.30_frame19692.rdc")) 1
+QTRD 014472: [20:33:30]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange (QUrl("file:///C:/Users/John McElmurray/AppData/Local/Temp/RenderDoc/Cemu_2019.02.07_04.04.30_frame19692.rdc")) 1
