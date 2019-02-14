@@ -194,7 +194,7 @@ Prefab:
     - target: {fileID: 320711914480285100, guid: 4bd284ab2d4f0c242948f177904ab1b8,
         type: 2}
       propertyPath: m_ExposedReferences.m_References.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4690726591929800, guid: 4bd284ab2d4f0c242948f177904ab1b8, type: 2}
       propertyPath: m_LocalPosition.x
@@ -255,6 +255,16 @@ Prefab:
       value: 
       objectReference: {fileID: 114978391133722926, guid: 9f3ae3404747df94bb2a28bc3055bcc2,
         type: 2}
+    - target: {fileID: 320711914480285100, guid: 4bd284ab2d4f0c242948f177904ab1b8,
+        type: 2}
+      propertyPath: m_ExposedReferences.m_References.Array.data[1].first
+      value: 1fc3ed1b33b6535438196a8ac3845f76
+      objectReference: {fileID: 0}
+    - target: {fileID: 320711914480285100, guid: 4bd284ab2d4f0c242948f177904ab1b8,
+        type: 2}
+      propertyPath: m_ExposedReferences.m_References.Array.data[1].second
+      value: 
+      objectReference: {fileID: 1899535144}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4bd284ab2d4f0c242948f177904ab1b8, type: 2}
   m_IsPrefabAsset: 0
@@ -5028,7 +5038,7 @@ ParticleSystem:
   simulationSpeed: 1.8
   stopAction: 0
   looping: 1
-  prewarm: 0
+  prewarm: 1
   playOnAwake: 1
   useUnscaledTime: 0
   autoRandomSeed: 1
@@ -19502,11 +19512,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1899535144}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.09447395, y: 1.3439975, z: 0.08457857}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.09900194, y: 0.07719332, z: -1.3825772}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 396711118}
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 361374664}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
