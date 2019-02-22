@@ -16,9 +16,11 @@ ModelImporter:
     2300000: m_impact
     2300002: mod_circle
     2300004: star
+    2300006: //RootNode
     3300000: m_impact
     3300002: mod_circle
     3300004: star
+    3300006: //RootNode
     4300000: m_impact
     4300002: star
     4300004: mod_circle
