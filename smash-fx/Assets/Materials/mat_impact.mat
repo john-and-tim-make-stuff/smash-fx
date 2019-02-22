@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: m_impact
+  m_Name: mat_impact
   m_Shader: {fileID: 4800000, guid: aa573f993069b5e4c94836a16a36442f, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
