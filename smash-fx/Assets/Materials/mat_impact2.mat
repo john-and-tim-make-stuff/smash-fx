@@ -39,7 +39,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Gradient_A:
-        m_Texture: {fileID: 2800000, guid: ea14b508cec618943aca5ebb256f069c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5fcb75f17d63b2d42865a99201dfadeb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Gradient_B:
