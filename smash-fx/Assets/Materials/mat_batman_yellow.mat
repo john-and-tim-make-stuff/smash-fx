@@ -39,11 +39,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Gradient_A:
-        m_Texture: {fileID: 2800000, guid: 3e725512801104d4fa7ca6313d65f14f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 63151bb00f4c4434b9ad2da137308e8e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Gradient_B:
-        m_Texture: {fileID: 2800000, guid: 3e725512801104d4fa7ca6313d65f14f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 63151bb00f4c4434b9ad2da137308e8e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
