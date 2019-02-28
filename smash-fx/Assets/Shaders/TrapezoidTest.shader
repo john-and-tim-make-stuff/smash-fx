@@ -56,9 +56,7 @@ Shader "Shader Forge/TrapezoidTest" {
             float4 frag(VertexOutput i) : COLOR {
 ////// Lighting:
 ////// Emissive:
-                float node_4069 = (i.uv0.g*2.0+-1.0);
-                float node_972 = lerp(i.uv0.g,((node_4069*_Squeeze)*0.5+0.5),pow(i.uv0.r,_Exponent));
-                float2 node_1758 = float2(i.uv0.r,node_972);
+                float2 node_1758 = float2(i.uv0.r,lerp(i.uv0.g,(((i.uv0.g*2.0+-1.0)*_Squeeze)*0.5+0.5),pow(i.uv0.r,_Exponent)));
                 float4 _MainTex_var = tex2D(_MainTex,TRANSFORM_TEX(node_1758, _MainTex));
                 float3 emissive = _MainTex_var.rgb;
                 float3 finalColor = emissive;
